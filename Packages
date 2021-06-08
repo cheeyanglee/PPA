@@ -1,0 +1,20 @@
+Package: meson
+Version: 0.55.0
+Architecture: all
+Maintainer: Jussi Pakkanen <jpakkane@gmail.com>
+Installed-Size: 2580
+Depends: python3:any (>= 3.3.2-2~), ninja-build (>= 1.6), python3-pkg-resources
+Filename: ./meson_0.55.0_all.deb
+Size: 413872
+MD5sum: d606984599d3e1aeec8860bc57b2af9c
+SHA1: d43352f40eaed7a2c3aa400de74130e0489791cc
+SHA256: e07cacf3da592b4d22f159b07a20cc96d59d041b00766140a9238c932f0a7eed
+Section: devel
+Priority: optional
+Multi-Arch: foreign
+Homepage: https://mesonbuild.com
+Description: high-productivity build system
+ Meson is a build system designed to increase programmer
+ productivity. It does this by providing a fast, simple and easy to
+ use interface for modern software development tools and practices.
+
